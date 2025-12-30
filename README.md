@@ -1,0 +1,2 @@
+# FluxCipher
+Şifreleme Algoritması
