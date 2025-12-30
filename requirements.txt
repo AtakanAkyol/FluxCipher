@@ -1,0 +1,2 @@
+# Standart Python kütüphaneleri kullanılmıştır.
+# Harici bağımlılık yoktur.
